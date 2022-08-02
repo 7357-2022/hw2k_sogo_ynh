@@ -31,14 +31,14 @@ SOGo is an opensource groupware solution which has Webmail, a global address boo
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/sogo_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/7357-2022/hw2k_sogo_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 
 ``` bash
-sudo yunohost app install https://github.com/YunoHost-Apps/sogo_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/7357-2022/hw2k_sogo_ynh --debug
 or
-sudo yunohost app upgrade sogo -u https://github.com/YunoHost-Apps/sogo_ynh/tree/testing --debug
+sudo yunohost app upgrade sogo -u https://github.com/7357-2022/hw2k_sogo_ynh/tree/testing --debug
 ```
 
 **More info regarding app packaging:** <https://yunohost.org/packaging_apps>
